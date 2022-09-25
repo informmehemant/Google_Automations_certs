@@ -1,0 +1,2 @@
+some context for myfile.txt to move to emptyfile.txt
+
